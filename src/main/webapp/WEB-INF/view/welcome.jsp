@@ -10,6 +10,6 @@
     <title>Homepage</title>
 </head>
 <body>
-<h2>Thanks for choosing <span>Tardigrade Application to use.</span></h2>
+<h2>Thanks for choosing <span>My Application to use.</span></h2>
 </body>
 </html>
